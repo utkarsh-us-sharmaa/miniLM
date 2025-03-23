@@ -86,16 +86,16 @@ Sample Outputs
 Prompt: "The future of artificial intelligence is"
 Output: [Sample output from your model would go here]
 
-# Installation
+## Installation
 bash
 Clone the repository
 git clone https://github.com/your-username/wikigpt-mini.git
 cd wikigpt-mini
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Training Your Own Version
+## Training Your Own Version
 python
 from transformers import AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments
 from datasets import load_dataset
