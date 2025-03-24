@@ -138,6 +138,8 @@ trainer.train()
 model.save_pretrained("./wikigpt-mini")
 tokenizer.save_pretrained("./wikigpt-mini")
 
+![miniLM Prompt-Output-1](https://github.com/user-attachments/assets/c3ef1ece-c3e9-4c40-8c2b-5fb94f793696)
+
 
 
 Requirements
